@@ -3,4 +3,5 @@ Elements requested in documentation:
 
 1. Implementation Documentation
 2. User Documentation
+3. Processes
 
