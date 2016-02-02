@@ -4,4 +4,5 @@ Elements requested in documentation:
 1. Implementation Documentation
 2. User Documentation
 3. Processes
+4. Hetal's Edits
 
